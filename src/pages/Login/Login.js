@@ -5,7 +5,7 @@ import styles from "./Login.module.css";
 
 import React from "react";
 
-export default function Home() {
+export default function Login() {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
 
