@@ -1,6 +1,6 @@
 
-# Mindful List
-### Live link: [Mindful List](https://mindful-list-netlify.app)
+# Mindful Money
+### Live link: Mindful Money
 Mindful Money is a budgeting app for all your everyday spending. Meet your biggest help with your personal finance.
 
 
